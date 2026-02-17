@@ -49,4 +49,13 @@ The notebook includes:
 
 ## How to Run
 
-1. Clone this repository:
+1. Clone this repository: git clone https://github.com/jamiejones8/cs4347assignment01
+2. Open the `analysis.ipynb` file in Jupyter Notebook or JupyterLab.
+3. Run all cells from top to bottom.
+
+Required libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
